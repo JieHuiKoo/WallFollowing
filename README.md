@@ -15,3 +15,6 @@ The vital 2 lines of code are as shown.
 speedBaseL = VC - .5*KP*(noisyDistance - DESIRED_DISTANCE)
 speedBaseR = VC + .5*KP*(noisyDistance - DESIRED_DISTANCE)
 ```
+
+## Video Demonstration
+![wallfollowing](https://user-images.githubusercontent.com/31171083/160491822-509e210e-c7e1-4399-8ae0-57d10ceb4bfb.gif)
