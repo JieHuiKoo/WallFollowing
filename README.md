@@ -17,4 +17,7 @@ speedBaseR = VC + .5*KP*(noisyDistance - DESIRED_DISTANCE)
 ```
 
 ## Video Demonstration
-![wallfollowing](https://user-images.githubusercontent.com/31171083/160491822-509e210e-c7e1-4399-8ae0-57d10ceb4bfb.gif)
+
+
+https://user-images.githubusercontent.com/31171083/160492260-d5a99b89-79dc-4936-a75c-1106b1210c25.mp4
+
